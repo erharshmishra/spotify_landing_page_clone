@@ -4,7 +4,7 @@
 A simple front-end clone of the Spotify Web Player, built with HTML and CSS. This project replicates the look and feel of Spotify's user interface, including its sidebar navigation, music cards, and bottom player controls.
 
 ## 🌐 Demo
-
+https://spotify-landing-page-clone.onrender.com
 
 ## 📁 Project Structure
 📦spotify-clone/ <br>
